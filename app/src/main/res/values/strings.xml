@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="Username">User Name</string>
+    <string name="Password">Password</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="Login">Login</string>
+    <string name="not_register">Are you new to medistant?</string>
+    <string name="Register">Register Now</string>
+    <string name="allredy_registerd">Allredy Registerd?</string>
+</resources>
